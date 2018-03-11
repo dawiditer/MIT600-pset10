@@ -80,6 +80,6 @@ play!
 In the play window, you can enter your words in the text box and either hit **Enter** or press the **Submit** button. The status bar along
 the bottom will display messages concerning whether your word was accepted, and accepted words will be added to the word
 history list box. On the left and right you will see the stats displays for players 1 and 2, respectively. To end a hand, use up all
-your characters or enter a ’.’. You may also close the window at any time to stop the game.
+your characters or enter a `’.’`. You may also close the window at any time to stop the game.
 When playing against the computer, you won’t be able to interact with the main window, but you can see the words that the
 computer player chooses as it’s playing
